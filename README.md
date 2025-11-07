@@ -1,5 +1,4 @@
 # SEM-3-Exps
-SEM 3 Exps
 
 <h1 align="center">Digital Image Processing</h1>  
 
