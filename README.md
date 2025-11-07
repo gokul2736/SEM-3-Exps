@@ -1,9 +1,10 @@
 # SEM-3-Exps
 SEM 3 Exps
 
-## DIP
+<h1 align="center">Digital Image Processing</h1>  
+
 |Exp No|Exp Name - Link|
-|---|-----------|
+|:---:|-----------|
 |1|Image Handling and Pixel Transformations Using OpenCV <br>https://github.com/gokul2736/Image-Handling-and-Pixel-Transformations-Using-OpenCV
 |2|Image Acquisition using Web Camera<br>https://github.com/gokul2736/Image_Acqusition-_using_Web_Camera
 |3|Histogram processing<br>https://github.com/gokul2736/Histogram-of-an-images
@@ -17,10 +18,10 @@ SEM 3 Exps
 |11|IMPLEMENTATION OF HUFFMAN CODING<br>https://github.com/gokul2736/HUFFMAN--CODING
 
 
+<h1 align="center">Operating Systems</h1>  
 
-## OS
 |Exp No|Exp Name - Link|
-|---|-----------|
+|:---:|-----------|
 |1|Linux commands-Shell scripting<br>https://github.com/gokul2736/Linux-Process-API-fork-wait-exec
 |2|Linux Process API-fork(), wait(), exec()<br>https://github.com/gokul2736/Linux-Process-API-fork-wait-exec
 |3|Linux IPC - Pipes<br>https://github.com/gokul2736/Linux-IPC-Pipes
@@ -30,9 +31,10 @@ SEM 3 Exps
 |7|Linux File-IO Systems-locking<br>https://github.com/gokul2736/Linux-File-IO-Systems-locking
 |8|Windows-basic-commands-batchscript<br>https://github.com/gokul2736/Windows-basic-commands-batchscript
 
-## PMC
+<h1 align="center">Programming Micro Controllers</h1>  
+
 |Exp No|Exp Name - Link|
-|---|-----------|
+|:---:|-----------|
 |1|ARITHMETIC OPERATION AND LOGICAL OPERATION IN 8086<br>https://github.com/gokul2736/EXP-01-ALP-FOR-8086
 |2|INTERFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD<br>https://github.com/gokul2736/EXP-02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 |3|SIMULATION OF PUSHBUTTON AND LED WITH PROTEUS<br>https://github.com/gokul2736/EXP-03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-
@@ -42,9 +44,10 @@ SEM 3 Exps
 |7|Square wave generation using timer<br>https://github.com/gokul2736/EXP-07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 |8|CONFIGURING AN ANALOG PORT FOR INTERFACING ANALOG SENSOR<br>https://github.com/gokul2736/EXP-08-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT
 
-## CN
+<h1 align="center">Computer Networks</h1>  
+
 |Exp No|Exp Name - Link|
-|---|-----------|
+|:---:|-----------|
 |1A|Socket Study <br> https://github.com/gokul2736/SocketStudy
 |1B|Chat Study<br> https://github.com/gokul2736/ChatStudy
 |2A|Stop and Wait Protocol <br>https://github.com/gokul2736/2a_Stop_and_Wait_Protocol
