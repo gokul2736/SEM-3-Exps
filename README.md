@@ -21,7 +21,7 @@
 
 |Exp No|Exp Name - Link|
 |:---:|-----------|
-|1|Linux commands-Shell scripting<br>https://github.com/gokul2736/Linux-Process-API-fork-wait-exec
+|1|Linux commands-Shell scripting<br>https://github.com/gokul2736/OS-Linux-commands-Shell-script
 |2|Linux Process API-fork(), wait(), exec()<br>https://github.com/gokul2736/Linux-Process-API-fork-wait-exec
 |3|Linux IPC - Pipes<br>https://github.com/gokul2736/Linux-IPC-Pipes
 |4|Linux IPC - Message Queues<br>https://github.com/gokul2736/Linux-IPC-Message-Queues
