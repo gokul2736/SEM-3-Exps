@@ -15,7 +15,7 @@
 |9|IMPLEMENTATION OF EROSION AND DILATION<br>https://github.com/gokul2736/erosion--dilation
 |10|IMPLEMENTATION OF OPENING AND CLOSING<br>https://github.com/gokul2736/OPENING--AND-CLOSING
 |11|IMPLEMENTATION OF HUFFMAN CODING<br>https://github.com/gokul2736/HUFFMAN--CODING
-
+|12|Face Detection with Haar Cascades<br>https://github.com/gokul2736/Face-Detection-with-Haar-Cascades
 
 <h1 align="center">Operating Systems</h1>  
 
